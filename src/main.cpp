@@ -1,4 +1,5 @@
 #include <lua.hpp>
+#include "compat-5.3.h"
 #include <security/pam_appl.h>
 #include <security/pam_misc.h>
 #include <pwd.h>
